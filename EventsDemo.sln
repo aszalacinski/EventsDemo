@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsDemo", "EventsDemo\EventsDemo.csproj", "{66146B13-D8D0-41AF-A915-DF4525CA00EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsDemo2", "EventsDemo2\EventsDemo2.csproj", "{D704411C-5AFF-4DEB-91B9-B25B9E927A24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{92F3CB8E-CF60-444C-8110-0225E6FB560C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66146B13-D8D0-41AF-A915-DF4525CA00EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66146B13-D8D0-41AF-A915-DF4525CA00EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66146B13-D8D0-41AF-A915-DF4525CA00EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66146B13-D8D0-41AF-A915-DF4525CA00EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D704411C-5AFF-4DEB-91B9-B25B9E927A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D704411C-5AFF-4DEB-91B9-B25B9E927A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D704411C-5AFF-4DEB-91B9-B25B9E927A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D704411C-5AFF-4DEB-91B9-B25B9E927A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE852B18-6BE3-452C-85E3-EBDBABDCBD1F}
+	EndGlobalSection
+EndGlobal
